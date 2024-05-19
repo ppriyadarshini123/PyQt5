@@ -1,4 +1,5 @@
 #I followed this video to make this file: https://www.youtube.com/watch?v=Vde5SH8e1OQ&t=501s
+#At the command prompt: pyuic5 -x test.ui -o test.py 
 from PyQt5 import QtWidgets
 from PyQt5.QtWidgets import QApplication, QMainWindow
 import sys
